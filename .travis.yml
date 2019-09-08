@@ -9,4 +9,4 @@ install:true
  
  
  script:
- -python pytext.py
+ -python pytext.test
