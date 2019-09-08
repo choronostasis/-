@@ -10,4 +10,4 @@ install:
  
  
  script:
- -python -
+ -python pytext.py
